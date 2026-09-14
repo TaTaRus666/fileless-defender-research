@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+artifacts/
+artifacts_synthetic/
+*.onnx
+*.joblib
+
+baseline*.csv
+*.log
+.env
